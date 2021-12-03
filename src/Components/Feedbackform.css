@@ -1,0 +1,54 @@
+.form_heading{
+    color: #2A62B7;
+    font-family: Roboto;
+    margin-left: 2rem;
+
+}
+.form_para{
+    margin-left: 2rem;
+
+}
+.bgcolor{
+    background: #F5F5F5;
+    overflow: hidden;
+    height: 92.5vh;
+    border-radius: .5rem;
+}
+.form_container{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background: white;
+    padding: 1rem;
+    box-shadow: 0px 2px 2px #00000029;
+
+}
+.submit_btn{
+    margin-top: 10rem;
+    background: #48A44C;
+    color: white;
+    display: flex;
+    float: right;
+}
+.table_container{
+
+    background: white;
+    padding: 1rem;
+    box-shadow: 0px 2px 2px #00000029;
+}
+
+.btnselect{
+    color: #8870C9;
+    border: none;
+    background: white;
+
+    width: 100px;
+    border-bottom: 4px solid #8870C9;
+
+}
+.btnnonselect{
+    border: none;
+    width: 100px;
+
+    background: white;
+    color: black;
+}
